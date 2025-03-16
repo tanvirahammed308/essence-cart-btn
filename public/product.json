@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Men's Casual Shirt",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/11a.jpg",
+      "description": "Comfortable cotton casual shirt for men.",
+      "price": 29.99,
+      "category": "Shirt",
+      "productDisplayCategory": "Popular Product"
+    },
+    {
+      "id": 2,
+      "title": "Women's Summer T-Shirt",
+      "image":"https://demo.wpthemego.com/themes/sw_xtore4/wp-content/uploads/2024/06/2a.jpg",
+      "description": "Lightweight and stylish t-shirt for women.",
+      "price": 19.99,
+      "category": "T-Shirt",
+      "productDisplayCategory": "New Arrival"
+    },
+    {
+      "id": 3,
+      "title": "Men's Denim Jeans",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/2b-1.jpg",
+      "description": "Classic fit denim jeans for men.",
+      "price": 39.99,
+      "category": "Pant",
+      "productDisplayCategory": "Offered Product"
+    },
+    {
+      "id": 4,
+      "title": "Women's Formal Pant",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/19a.jpg",
+      "description": "Elegant formal pant for women.",
+      "price": 34.99,
+      "category": "Pant",
+      "productDisplayCategory": "Popular Product"
+    },
+    {
+      "id": 5,
+      "title": "Men's Leather Jacket",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/5a-1.jpg",
+      "description": "Premium leather jacket for winter fashion.",
+      "price": 89.99,
+      "category": "Male",
+      "productDisplayCategory": "New Arrival"
+    },
+    {
+      "id": 6,
+      "title": "Women's Hooded Sweatshirt",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/10a.jpg",
+      "description": "Warm and stylish hoodie for casual wear.",
+      "price": 49.99,
+      "category": "Female",
+      "productDisplayCategory": "Offered Product"
+    },
+    {
+      "id": 7,
+      "title": "Men's Formal Shirt",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/13a.jpg",
+      "description": "Slim-fit cotton formal shirt for office wear.",
+      "price": 24.99,
+      "category": "Shirt",
+      "productDisplayCategory": "Popular Product"
+    },
+    {
+      "id": 8,
+      "title": "Women's Casual T-Shirt",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/10a-1.jpg",
+      "description": "Soft cotton casual t-shirt for everyday wear.",
+      "price": 22.99,
+      "category": "T-Shirt",
+      "productDisplayCategory": "New Arrival"
+    },
+    {
+      "id": 9,
+      "title": "Men's Slim-Fit Chinos",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/10a-1.jpg",
+      "description": "Comfortable and stylish slim-fit chinos for men.",
+      "price": 44.99,
+      "category": "Pant",
+      "productDisplayCategory": "Offered Product"
+    },
+    {
+      "id": 10,
+      "title": "Women's Skinny Jeans",
+      "image": "https://demo.wpthemego.com/themes/sw_xtore3/wp-content/uploads/2024/04/10a-1.jpg",
+      "description": "Trendy skinny jeans for women with stretchable fabric.",
+      "price": 54.99,
+      "category": "Pant",
+      "productDisplayCategory": "Popular Product"
+    }
+  ]
+  
