@@ -77,7 +77,7 @@ const Header = ({cart}) => {
            <div className=" flex justify-center">
 
            
-           <p className="font-bold capitalize">total price {fixPrice}</p>
+           <p className="font-bold capitalize">total price $ {fixPrice}</p>
            </div>
            <div className="text-center py-5">
             <button className="border border-white font-bold px-3 mb-20 capitalize rounded">check out</button>
